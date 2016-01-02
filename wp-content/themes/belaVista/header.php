@@ -72,9 +72,7 @@
   <?php require_once 'template/slider.php';?>
   <div class="panel panel-default">
   <div class="panel-body">
-	<?php require_once 'template/sobre.php';?>
-	<?php require_once 'template/nossotrabalho.php';?>
-	<?php require_once 'template/contato.php';?>
+	
 	
  </div>
  
