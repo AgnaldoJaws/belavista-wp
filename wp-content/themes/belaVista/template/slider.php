@@ -39,7 +39,7 @@
     <div class="item">
       <img src="http://www.onthebass.com.br/belavista/slider/comercio-dos-produtos-min-min.png" alt="Flower">
 <div class="carousel-caption">
-        <h1>Comercio dos Produtos</h1>
+        <h1>Comercio de Produtos Naturais</h1>
         
       </div>
     </div>

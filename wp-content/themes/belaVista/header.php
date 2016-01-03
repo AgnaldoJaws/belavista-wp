@@ -34,7 +34,30 @@
 
 <style>
 
+.navbar {
+    margin-bottom: 0;
+    background-color:#065206;
+    z-index: 9999;
+    border: 0;
+    font-size: 15px !important;
+    line-height: 1.42857143 !important;
+    letter-spacing: 4px;
+    border-radius: 0;
+}
 
+.navbar li a, .navbar .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #065206 !important;
+    background-color: #fff !important;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #fff !important;
+}
 .carousel-inner > .item > img ,
   .carousel-inner > .item > a > img {
       width: 100%;
@@ -72,7 +95,9 @@
   <?php require_once 'template/slider.php';?>
   <div class="panel panel-default">
   <div class="panel-body">
-	
+	<?php require_once 'template/sobre.php';?>
+	<?php require_once 'template/nossotrabalho.php';?>
+	<?php require_once 'template/contato.php';?>
 	
  </div>
  

@@ -16,13 +16,13 @@
 
 // ** Configurações do MySQL - Você pode pegar essas informações com o serviço de hospedagem ** //
 /** O nome do banco de dados do WordPress */
-define('DB_NAME', 'wordpress');
+define('DB_NAME', 'belavistadb');
 
 /** Usuário do banco de dados MySQL */
-define('DB_USER', 'root');
+define('DB_USER', 'belavistadb');
 
 /** Senha do banco de dados MySQL */
-define('DB_PASSWORD', 'abc');
+define('DB_PASSWORD', 'oL$^N54KLtlcK(vUJV');
 
 /** nome do host do MySQL */
 define('DB_HOST', 'localhost');
