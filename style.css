@@ -1,0 +1,30 @@
+/*
+Theme Name: Sitio bela vista
+Theme URI: http://stbelavista.com.br/
+Author: agnaldo junior
+Author URI: pontodeculturacaicaras.art.br
+Description: tema bela vista.
+Version: 1.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: ciclovivencia
+Tags: cicloturismo
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+@font-face {
+    font-family: myFirstFont;
+    src: url(font/lemon_milk/LemonMilk.otf);
+}
+div {
+    font-family: myFirstFont;
+}
+
+section {
+  height: 900px;
+  border: solid black 1px;
+}
+.jumbotron {
+
+    background-color: white !important;
+}
